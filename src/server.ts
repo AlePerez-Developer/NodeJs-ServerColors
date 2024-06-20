@@ -10,7 +10,7 @@ import servicioRoutes from "./routes/servicio.routes"
 import reservaRoutes from "./routes/reserva.routes"
 import personaRoutes from "./routes/persona.routes"
 import cors from "cors";
-import db from "./db/connection";
+import db from "./db/dbConnection";
 
 class Server {
     private app: Application;

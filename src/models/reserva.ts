@@ -1,5 +1,5 @@
 import { DataTypes, Model } from 'sequelize';
-import conexion from '../db/connection';
+import conexion from '../db/dbConnection';
 import Cama from './cama';
 import Persona from './persona';
 
