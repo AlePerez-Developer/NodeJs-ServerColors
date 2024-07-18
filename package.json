@@ -22,7 +22,7 @@
     "typescript": "^5.5.3"
   },
   "dependencies": {
-    "@azure/msal-node": "^2.10.0",
+    "@azure/msal-node": "^2.11.1",
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
@@ -30,6 +30,6 @@
     "express-validator": "^6.15.0",
     "jsonwebtoken": "^9.0.2",
     "sequelize": "^6.37.3",
-    "tedious": "^18.2.3"
+    "tedious": "^18.2.4"
   }
 }
