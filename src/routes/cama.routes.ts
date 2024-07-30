@@ -1,7 +1,6 @@
 import { Router } from "express";
 import camaController from "../controllers/camaController";
 
-
 const router = Router()
 
 router.get('/', camaController.getCamas)
